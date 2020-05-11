@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/firstwood/static/css/main.2ec3552a.chunk.css",
-    "main.js": "/firstwood/static/js/main.46177930.chunk.js",
-    "main.js.map": "/firstwood/static/js/main.46177930.chunk.js.map",
-    "runtime-main.js": "/firstwood/static/js/runtime-main.07c66a6c.js",
-    "runtime-main.js.map": "/firstwood/static/js/runtime-main.07c66a6c.js.map",
-    "static/css/2.55a0d798.chunk.css": "/firstwood/static/css/2.55a0d798.chunk.css",
-    "static/js/2.3d79a95f.chunk.js": "/firstwood/static/js/2.3d79a95f.chunk.js",
-    "static/js/2.3d79a95f.chunk.js.map": "/firstwood/static/js/2.3d79a95f.chunk.js.map",
-    "index.html": "/firstwood/index.html",
-    "precache-manifest.5b747ae0788997c1d44b9f2a31553f49.js": "/firstwood/precache-manifest.5b747ae0788997c1d44b9f2a31553f49.js",
-    "service-worker.js": "/firstwood/service-worker.js",
-    "static/css/2.55a0d798.chunk.css.map": "/firstwood/static/css/2.55a0d798.chunk.css.map",
-    "static/css/main.2ec3552a.chunk.css.map": "/firstwood/static/css/main.2ec3552a.chunk.css.map",
-    "static/js/2.3d79a95f.chunk.js.LICENSE.txt": "/firstwood/static/js/2.3d79a95f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/firstwood/static/media/Background.6afa7dff.jpg",
-    "static/media/Logo.png": "/firstwood/static/media/Logo.b9d67818.png",
-    "static/media/lightgallery.css": "/firstwood/static/media/lg.ecff1170.eot"
+    "main.css": "/first-wood/static/css/main.f381c415.chunk.css",
+    "main.js": "/first-wood/static/js/main.46177930.chunk.js",
+    "main.js.map": "/first-wood/static/js/main.46177930.chunk.js.map",
+    "runtime-main.js": "/first-wood/static/js/runtime-main.0bed797e.js",
+    "runtime-main.js.map": "/first-wood/static/js/runtime-main.0bed797e.js.map",
+    "static/css/2.1fe07cc6.chunk.css": "/first-wood/static/css/2.1fe07cc6.chunk.css",
+    "static/js/2.3d79a95f.chunk.js": "/first-wood/static/js/2.3d79a95f.chunk.js",
+    "static/js/2.3d79a95f.chunk.js.map": "/first-wood/static/js/2.3d79a95f.chunk.js.map",
+    "index.html": "/first-wood/index.html",
+    "precache-manifest.9ebef1499a4aaab56d880383d84d41a1.js": "/first-wood/precache-manifest.9ebef1499a4aaab56d880383d84d41a1.js",
+    "service-worker.js": "/first-wood/service-worker.js",
+    "static/css/2.1fe07cc6.chunk.css.map": "/first-wood/static/css/2.1fe07cc6.chunk.css.map",
+    "static/css/main.f381c415.chunk.css.map": "/first-wood/static/css/main.f381c415.chunk.css.map",
+    "static/js/2.3d79a95f.chunk.js.LICENSE.txt": "/first-wood/static/js/2.3d79a95f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/first-wood/static/media/Background.6afa7dff.jpg",
+    "static/media/Logo.png": "/first-wood/static/media/Logo.b9d67818.png",
+    "static/media/lightgallery.css": "/first-wood/static/media/lg.ecff1170.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.07c66a6c.js",
-    "static/css/2.55a0d798.chunk.css",
+    "static/js/runtime-main.0bed797e.js",
+    "static/css/2.1fe07cc6.chunk.css",
     "static/js/2.3d79a95f.chunk.js",
-    "static/css/main.2ec3552a.chunk.css",
+    "static/css/main.f381c415.chunk.css",
     "static/js/main.46177930.chunk.js"
   ]
 }
