@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/First-Wood/static/css/main.9c2d9623.chunk.css",
+    "main.js": "/First-Wood/static/js/main.f4bc5f4e.chunk.js",
+    "main.js.map": "/First-Wood/static/js/main.f4bc5f4e.chunk.js.map",
+    "runtime-main.js": "/First-Wood/static/js/runtime-main.3218c479.js",
+    "runtime-main.js.map": "/First-Wood/static/js/runtime-main.3218c479.js.map",
+    "static/css/2.7f9531c0.chunk.css": "/First-Wood/static/css/2.7f9531c0.chunk.css",
+    "static/js/2.3d79a95f.chunk.js": "/First-Wood/static/js/2.3d79a95f.chunk.js",
+    "static/js/2.3d79a95f.chunk.js.map": "/First-Wood/static/js/2.3d79a95f.chunk.js.map",
+    "index.html": "/First-Wood/index.html",
+    "precache-manifest.e0bbfd2ac7e5349c5d5853e15b9a4cfc.js": "/First-Wood/precache-manifest.e0bbfd2ac7e5349c5d5853e15b9a4cfc.js",
+    "service-worker.js": "/First-Wood/service-worker.js",
+    "static/css/2.7f9531c0.chunk.css.map": "/First-Wood/static/css/2.7f9531c0.chunk.css.map",
+    "static/css/main.9c2d9623.chunk.css.map": "/First-Wood/static/css/main.9c2d9623.chunk.css.map",
+    "static/js/2.3d79a95f.chunk.js.LICENSE.txt": "/First-Wood/static/js/2.3d79a95f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/First-Wood/static/media/Background.6afa7dff.jpg",
+    "static/media/Logo.png": "/First-Wood/static/media/Logo.b9d67818.png",
+    "static/media/lightgallery.css": "/First-Wood/static/media/lg.ecff1170.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3218c479.js",
+    "static/css/2.7f9531c0.chunk.css",
+    "static/js/2.3d79a95f.chunk.js",
+    "static/css/main.9c2d9623.chunk.css",
+    "static/js/main.f4bc5f4e.chunk.js"
+  ]
+}
