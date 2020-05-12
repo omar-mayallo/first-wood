@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "423a7a4c8dee8d0eea589cb7b80c73bf",
+    "revision": "2bb9a5eece9d8ef00f31847379d33f9f",
     "url": "/first-wood/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/first-wood/static/css/2.1fe07cc6.chunk.css"
   },
   {
-    "revision": "7a52da3de29c6c72f32a",
+    "revision": "2f48114ee3ac62467615",
     "url": "/first-wood/static/css/main.f381c415.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/first-wood/static/js/2.3d79a95f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a52da3de29c6c72f32a",
-    "url": "/first-wood/static/js/main.f3552303.chunk.js"
+    "revision": "2f48114ee3ac62467615",
+    "url": "/first-wood/static/js/main.82fc4170.chunk.js"
   },
   {
     "revision": "a457424b6ba29f0f32eb",
